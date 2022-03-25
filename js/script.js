@@ -17,5 +17,5 @@ function calculate () {
 
    // output
   document.getElementById('take-home-income').innerHTML = 'Your pay will be: $' + takeHomeIncome.toFixed(2)
-  document.getElementById('gouvernment-taxes').innerHTML = 'The gouvernment will take: $' + taxes.toFixed(2)
+  document.getElementById('government-taxes').innerHTML = 'The government will take: $' + taxes.toFixed(2)
 }
